@@ -1,0 +1,23 @@
+.background{
+    background-image: url("img/background07.jpg");
+    background-repeat: no-repeat;
+     background-attachment: fixed;
+    background-position: center center;
+    background-size: cover;
+}
+.title{
+    padding-top: 20px;
+    color: wheat;
+    text-align: center;
+}
+
+.description{
+    padding-top: 40px;
+    text-align: center;
+    font-weight: italic;
+    font-size: 24px;
+    color: white;
+}
+.description:hover{
+    color: wheat;
+}
